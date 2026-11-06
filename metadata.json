@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Amigurumis Artesanales",
+  "description": "Estructura base para catálogo digital y futuro generador interactivo de amigurumis personalizados tejidos a crochet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
